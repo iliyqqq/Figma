@@ -1,0 +1,10 @@
+User-agent: Yandex
+User-agent: Googlebot
+Disallow: /login
+Disallow: /registration
+Disallow: /user/*
+
+User-agent: *
+Allow: /assets/
+Allow: /templates/
+Crawl-delay: 7
